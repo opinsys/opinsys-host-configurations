@@ -1,0 +1,511 @@
+Ownership Tag
+	
+Asset Tracking Number
+	
+BIOS Rollback Policy
+	*Unrestricted Rollback to older BIOS
+	Restricted Rollback to older BIOS
+Password Minimum Length
+	8
+At least one symbol is required in Administrator and User passwords
+	*No
+	Yes
+At least one number is required in Administrator and User passwords
+	*No
+	Yes
+At least one upper case character is required in Administrator and User passwords
+	*No
+	Yes
+At least one lower case character is required in Administrator and User passwords
+	*No
+	Yes
+Are spaces allowed in Administrator and User passwords?
+	*No
+	Yes
+Prompt for Admin password on F9 (Boot Menu)
+	*Disable
+	Enable
+Prompt for Admin password on F11 (System Recovery)
+	*Disable
+	Enable
+Prompt for Admin password on F12 (Network Boot)
+	*Disable
+	Enable
+Wake on LAN Power-on Password Policy
+	Bypass Password
+	*Require Password
+Prompt for Admin password on Capsule Update
+	*Disable
+	Enable
+TPM Device
+	Hidden
+	*Available
+TPM State
+	Disable
+	*Enable
+Clear TPM
+	*No
+	On next boot
+TPM Activation Policy
+	F1 to Boot
+	*Allow user to reject
+	No prompts
+Verify Boot Block on every boot
+	*Disable
+	Enable
+BIOS Data Recovery Policy
+	*Automatic
+	Manual
+Prompt on Network Controller Configuration Change
+	*Disable
+	Enable
+Lock BIOS Version
+	*Disable
+	Enable
+Dynamic Runtime Scanning of Boot Block
+	Disable
+	*Enable
+Sure Start BIOS Settings Protection
+	*Disable
+	Enable
+Sure Start Secure Boot Keys Protection
+	Disable
+	*Enable
+Native OS Firmware Update Service
+	Disable
+	*Enable
+Physical Presence Interface
+	Disable
+	*Enable
+Save/Restore MBR of System Hard Drive
+	*Disabled
+	Enabled
+Drivelock Password on restart
+	*Disable
+	Enable
+Permanent Disable Absolute Persistence Module Set Once
+	*No
+	Yes
+System Management Command
+	Disable
+	*Enable
+Fingerprint Reset on Reboot
+	*Disable
+	Enable
+Select Language
+	*English
+	Deutsch
+	Espanol
+	Italiano
+	Francais
+	Japanese
+	Portugues
+	Dansk
+	Svenska
+	Nederlands
+	Norsk
+	Suomi
+	Simplified Chinese
+	Traditional Chinese
+	Russian
+Select Keyboard Layout
+	*English
+	Deutsch
+	Espanol
+	Italiano
+	Francais
+	Japanese
+	Portugues
+	Dansk
+	Svenska
+	Nederlands
+	Norsk
+	Suomi
+	Simplified Chinese
+	Traditional Chinese
+	Russian
+Sunday
+	*Disable
+	Enable
+Monday
+	*Disable
+	Enable
+Tuesday
+	*Disable
+	Enable
+Wednesday
+	*Disable
+	Enable
+Thursday
+	*Disable
+	Enable
+Friday
+	*Disable
+	Enable
+Saturday
+	*Disable
+	Enable
+BIOS Power-On Hour
+	0
+BIOS Power-On Minute
+	0
+Power On When AC Detected
+	*Disabled
+	Enabled
+Power On When Lid is Opened
+	*Disabled
+	Enabled
+Startup Menu Delay (sec.)
+	*0
+	5
+	10
+	15
+	20
+	25
+	30
+	35
+	40
+	45
+	50
+	55
+	60
+Fast Boot
+	*Disable
+	Enable
+Audio Alerts During Boot
+	*Disable
+	Enable
+NumLock on at boot
+	*Disable
+	Enable
+CD-ROM Boot
+	Disable
+	*Enable
+USB Storage Boot
+	Disable
+	*Enable
+Prompt on Memory Size Change
+	Disabled
+	*Enabled
+Network (PXE) Boot
+	Disable
+	*Enable
+Prompt on Fixed Storage Change
+	*Disabled
+	Enabled
+Prompt on Battery Errors
+	Disable
+	*Enable
+Legacy Boot Options
+	Disable
+	*Enable
+Legacy Boot Order
+	HDD:M.2:1
+	HDD:SATA:1
+	HDD:SATA:2
+	NETWORK:EMBEDDED:1
+	HDD:USB:1
+UEFI Boot Options
+	*Disable
+	Enable
+UEFI Boot Order
+	HDD:M.2:1
+	HDD:SATA:1
+	HDD:SATA:2
+	HDD:USB:1
+Smart Card Reader Power Setting (if present)
+	Always powered on
+	*Powered on if card is present
+Secondary Battery Fast Charge
+	Disabled
+	*Enabled
+Launch Hotkeys without Fn Keypress
+	*Disabled
+	Enabled
+Launch Hotkeys without Fn Keypress
+	*Disable
+	Enable
+Swap Fn and Ctrl (Keys)
+	*Disabled
+	Enabled
+Power Control
+	*Disable
+	Enable
+Lock Wireless Button
+	*Disabled
+	Enabled
+Lock Wireless Button
+	*Disable
+	Enable
+WWAN Quick Connect
+	Disabled
+	*Enabled
+Fan Always on while on AC Power
+	*Disabled
+	Enabled
+Wake on LAN on DC mode
+	*Disabled
+	Enabled
+Boost Converter
+	Disabled
+	*Enabled
+Backlit keyboard timeout
+	5 secs.
+	*15 secs.
+	30 secs.
+	1 min..
+	5 mins.
+	Never.
+Fan Quiet Mode
+	*Disabled
+	Enabled
+Bluetooth
+	Disabled
+	*Enabled
+Wireless Network Device (WLAN)
+	Disabled
+	*Enabled
+Embedded WiGig Device
+	Disabled
+	*Enabled
+Mobile Network Device (WWAN)
+	Disabled
+	*Enabled
+Mobile Network Device (WWAN) and GPS Combo Device
+	Disabled
+	*Enabled
+LAN / WLAN Auto Switching
+	*Disabled
+	Enabled
+GPS Device
+	Disabled
+	*Enabled
+Configure Legacy Support and Secure Boot
+	*Legacy Support Enable and Secure Boot Disable
+	Legacy Support Disable and Secure Boot Enable
+	Legacy Support Disable and Secure Boot Disable
+Import Custom Secure Boot keys
+	*Do Nothing
+	On next boot
+Clear Secure Boot keys
+	*Disable
+	Enable
+Reset Secure Boot keys to factory defaults
+	*Disable
+	Enable
+Enable MS UEFI CA key
+	No
+	*Yes
+Ready to disable MS UEFI CA Key
+	Not Ready
+	*Ready
+Enable Turbo Boost on DC
+	*Disable
+	Enable
+Audio Device
+	Disable
+	*Enable
+Intel Smart Sound
+	Disable
+	*Enable
+Embedded LAN controller
+	Disable
+	*Enable
+Wake On LAN
+	Disabled
+	*Boot to Network
+	Boot to Hard Drive
+	Boot to Normal Boot Order
+Integrated Microphone
+	Disable
+	*Enable
+Internal Speakers
+	Disable
+	*Enable
+Runtime Power Management
+	Disable
+	*Enable
+Headphone Output
+	Disable
+	*Enable
+Extended Idle Power States
+	Disable
+	*Enable
+Wake unit from sleep when lid is opened
+	Disabled
+	*Enabled
+Wake when Lid is Opened
+	Disable
+	*Enable
+Wake on USB
+	*Disable
+	Enable
+Battery Health Manager
+	Maximize my battery health
+	Let HP manage my battery charging
+	*Maximize my battery duration
+Disable Battery On Next Boot
+	*Do not disable
+	Next shut down
+NFC
+	Disable
+	*Enable
+Integrated Camera
+	Disable
+	*Enable
+Fingerprint Device
+	Disable
+	*Enable
+Battery Safety Mode
+	*Disable
+	Enable
+Video Memory Size
+	32 MB
+	64 MB
+	*128 MB
+	256 MB
+	512 MB
+M2 SSD1
+	Disable
+	*Enable
+SATA1
+	Disable
+	*Enable
+SATA2
+	Disable
+	*Enable
+Media Card Reader
+	Disable
+	*Enable
+Restrict USB Devices
+	*Allow all USB Devices
+	Allow only keyboard and mouse
+	Allow all but storage devices and hubs
+USB Charging Port Function
+	Disable
+	*Enable
+Disable Charging Port in sleep/off if battery below (%):
+	10
+Left USB Ports
+	Disable
+	*Enable
+Right USB Ports
+	Disable
+	*Enable
+Right USB Port 1
+	Disable
+	*Enable
+Right USB Port 2
+	Disable
+	*Enable
+Docking USB Ports
+	Disable
+	*Enable
+Smart Card
+	Disabled
+	*Enabled
+Turbo-boost
+	Disable
+	*Enable
+Intel Software Guard Extensions (SGX)
+	*Disable
+	Enable
+Configure Option ROM Launch Policy
+	*All Legacy
+	All UEFI
+	All UEFI Except Video
+Hyperthreading
+	Disable
+	*Enable
+Multi-processor
+	Disable
+	*Enable
+Virtualization Technology (VTx)
+	Disable
+	*Enable
+Virtualization Technology for Directed I/O (VTd)
+	Disable
+	*Enable
+Active Management (AMT)
+	Disable
+	*Enable
+USB Key Provisioning Support
+	*Disable
+	Enable
+Unconfigure AMT on next boot
+	*Do Not Apply
+	Apply
+SOL Terminal Emulation Mode
+	*ANSI
+	VT100
+Verbose Boot Messages
+	*Disable
+	Enable
+Watchdog Timer
+	Disable
+	*Enable
+OS Watchdog Timer (min.)
+	*5
+	10
+	15
+	20
+	25
+BIOS Watchdog Timer (min.)
+	*5
+	10
+	15
+	20
+	25
+USB Redirection Support
+	Disable
+	*Enable
+Show Unconfigure ME Confirmation Prompt
+	Disable
+	*Enable
+Wireless Manageability
+	*Disable
+	Enable
+CIRA Timeout (min.)
+	*1 min
+	2 mins
+	3 mins
+	4 mins
+	Never
+Deep Sleep
+	Off
+	*On
+Update Source
+	*HP
+	Custom
+Automatically Check for Updates
+	Daily
+	Weekly
+	*Monthly
+Automatic BIOS Update Setting
+	*Disable
+	Let user decide whether to install updates
+	Install all updates automatically
+	Install only important updates automatically
+Force Check on Reboot
+	*Disable
+	Enable
+Update BIOS via Network
+	Disable
+	*Enable
+Use Proxy
+	*Disable
+	Enable
+DNS Configuration
+	*Automatic
+	Manual
+Data transfer timeout
+	30
+IPv4 Configuration
+	*Automatic
+	Manual
+Connected BIOS
+	Disable
+	*Enable
+Force HTTP no-cache
+	*Disable
+	Enable
