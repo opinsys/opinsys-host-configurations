@@ -197,8 +197,8 @@ Prompt on Battery Errors
 	Disable
 	*Enable
 Legacy Boot Options
-	Disable
-	*Enable
+	*Disable
+	Enable
 Legacy Boot Order
 	HDD:USB:1
 	HDD:M.2:1
@@ -206,8 +206,8 @@ Legacy Boot Order
 	HDD:SATA:2
 	NETWORK:EMBEDDED:1
 UEFI Boot Options
-	*Disable
-	Enable
+	Disable
+	*Enable
 UEFI Boot Order
 	HDD:USB:1
 	HDD:M.2:1
@@ -281,9 +281,9 @@ GPS Device
 	Disabled
 	*Enabled
 Configure Legacy Support and Secure Boot
-	*Legacy Support Enable and Secure Boot Disable
+	Legacy Support Enable and Secure Boot Disable
 	Legacy Support Disable and Secure Boot Enable
-	Legacy Support Disable and Secure Boot Disable
+	*Legacy Support Disable and Secure Boot Disable
 Import Custom Secure Boot keys
 	*Do Nothing
 	On next boot
