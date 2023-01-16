@@ -210,6 +210,7 @@ UEFI Boot Options
 	*Enable
 UEFI Boot Order
 	HDD:USB:1
+	UNKNOWN:EXPANSION
 	HDD:M.2:1
 	HDD:SATA:1
 	HDD:SATA:2

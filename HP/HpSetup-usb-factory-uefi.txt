@@ -209,6 +209,7 @@ UEFI Boot Options
 	Disable
 	*Enable
 UEFI Boot Order
+	UNKNOWN:EXPANSION
 	HDD:M.2:1
 	HDD:SATA:1
 	HDD:SATA:2
