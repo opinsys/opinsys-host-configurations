@@ -169,6 +169,20 @@ Startup Menu Delay (sec.)
 	50
 	55
 	60
+Startup Delay (sec.)
+	*0
+	5
+	10
+	15
+	20
+	25
+	30
+	35
+	40
+	45
+	50
+	55
+	60
 Fast Boot
 	*Disable
 	Enable
