@@ -204,6 +204,15 @@ Prompt on Memory Size Change
 Network (PXE) Boot
 	Disable
 	*Enable
+Thunderbolt Type-C Ports
+	Disable
+	*Enable
+Thunderbolt Security Level
+	PCIe and DisplayPort - No Security
+	PCIe and DisplayPort - User Authorization
+	PCIe and DisplayPort - Secure Connect
+	*DisplayPort and USB
+	Daisy Chaining Disabled
 Prompt on Fixed Storage Change
 	*Disabled
 	Enabled
