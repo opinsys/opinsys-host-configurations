@@ -381,6 +381,9 @@ Integrated Camera
 Fingerprint Device
 	Disable
 	*Enable
+Touch Device
+	Disable
+	*Enable
 Battery Safety Mode
 	*Disable
 	Enable
