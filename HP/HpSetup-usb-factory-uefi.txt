@@ -220,8 +220,8 @@ Prompt on Battery Errors
 	Disable
 	*Enable
 Legacy Boot Options
-	*Disable
-	Enable
+	Disable
+	*Enable
 Legacy Boot Order
 	HDD:M.2:1
 	HDD:SATA:1
@@ -536,5 +536,14 @@ Connected BIOS
 	Disable
 	*Enable
 Force HTTP no-cache
+	*Disable
+	Enable
+OS Recovery
+	*Disable
+	Enable
+Recover OS from Network
+	*Disable
+	Enable
+Recover OS after Boot Failure
 	*Disable
 	Enable

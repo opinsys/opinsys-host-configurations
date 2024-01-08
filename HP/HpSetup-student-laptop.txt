@@ -537,3 +537,13 @@ Connected BIOS
 Force HTTP no-cache
 	*Disable
 	Enable
+OS Recovery
+	*Disable
+	Enable
+Recover OS from Network
+	*Disable
+	Enable
+Recover OS after Boot Failure
+	*Disable
+	Enable
+
