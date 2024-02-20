@@ -286,6 +286,9 @@ Fan Quiet Mode
 	*Disabled
 	Enabled
 Bluetooth
+	Disable
+	*Enable
+Bluetooth
 	Disabled
 	*Enabled
 Wireless Network Device (WLAN)
