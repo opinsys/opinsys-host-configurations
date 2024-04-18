@@ -155,6 +155,12 @@ Power On When AC Detected
 Power On When Lid is Opened
 	*Disabled
 	Enabled
+Power On When AC Detected
+	*Disable
+	Enable
+Power On When Lid is Opened
+	*Disable
+	Enable
 Startup Menu Delay (sec.)
 	*0
 	5
