@@ -512,6 +512,8 @@ CIRA Timeout (min.)
 Deep Sleep
 	Off
 	*On
+Update Address
+	
 Update Source
 	*HP
 	Custom
