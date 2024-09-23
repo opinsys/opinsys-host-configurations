@@ -385,6 +385,9 @@ Wake when Lid is Opened
 Wake on USB
 	*Disable
 	Enable
+Wake on Travel Keyboard
+        *Disable
+        Enable
 Battery Health Manager
 	Maximize my battery health
 	Let HP manage my battery charging
