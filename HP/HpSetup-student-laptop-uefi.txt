@@ -207,6 +207,16 @@ USB Storage Boot
 Prompt on Memory Size Change
 	Disabled
 	*Enabled
+Host Based MAC Address
+	Disable
+	*System
+	Custom
+Reuse Embedded LAN Address
+	Disable
+	*Enable
+Pre-boot HBMA Support
+	Disable
+	*Enable
 Network (PXE) Boot
 	Disable
 	*Enable
