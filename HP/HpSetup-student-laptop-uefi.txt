@@ -212,8 +212,8 @@ Host Based MAC Address
 	*System
 	Custom
 Reuse Embedded LAN Address
-	Disable
-	*Enable
+	*Disable
+	Enable
 Pre-boot HBMA Support
 	Disable
 	*Enable
