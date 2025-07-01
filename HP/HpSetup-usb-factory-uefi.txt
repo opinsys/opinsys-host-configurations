@@ -220,6 +220,9 @@ Pre-boot HBMA Support
 Network (PXE) Boot
 	Disable
 	*Enable
+Require BIOS PW to change TBT SL
+	*Disable
+	Enable
 Thunderbolt Type-C Ports
 	Disable
 	*Enable
