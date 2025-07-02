@@ -227,7 +227,7 @@ Thunderbolt Type-C Ports
 	Disable
 	*Enable
 Thunderbolt Security Level
-	PCIe and DisplayPort - No Security
+	*PCIe and DisplayPort - No Security
 	PCIe and DisplayPort - User Authorization
 	PCIe and DisplayPort - Secure Connect
 	*DisplayPort and USB
