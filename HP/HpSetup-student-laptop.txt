@@ -230,6 +230,12 @@ Thunderbolt Security Level
 	*PCIe and DisplayPort - No Security
 	PCIe and DisplayPort - User Authorization
 	PCIe and DisplayPort - Secure Connect
+	DisplayPort and USB
+	Daisy Chaining Disabled
+Thunderbolt Security Level
+	PCIe and DisplayPort - No Security
+	PCIe and DisplayPort - User Authorization
+	PCIe and DisplayPort - Secure Connect
 	*DisplayPort and USB
 	Daisy Chaining Disabled
 Prompt on Fixed Storage Change
