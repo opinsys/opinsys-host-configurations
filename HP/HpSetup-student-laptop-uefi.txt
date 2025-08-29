@@ -405,6 +405,10 @@ Battery Health Manager
 	Maximize my battery health
 	Let HP manage my battery charging
 	*Maximize my battery duration
+Battery Health Manager
+	Maximize Battery Health Management
+	Let HP Manage My Battery Health
+	*Minimize Battery Health Management
 Disable Battery On Next Boot
 	*Do not disable
 	Next shut down
