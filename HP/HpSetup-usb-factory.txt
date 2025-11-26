@@ -537,11 +537,11 @@ CIRA Timeout (min.)
 Deep Sleep
 	Off
 	*On
-Update Address
-	
 Update Source
-	*HP
-	Custom
+	HP
+	*Custom
+Update Address
+	http://ftp.hp.com/pub/pcbios
 Automatically Check for Updates
 	Daily
 	Weekly
