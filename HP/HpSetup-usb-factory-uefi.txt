@@ -208,21 +208,24 @@ Prompt on Memory Size Change
 	Disabled
 	*Enabled
 Host Based MAC Address
-        Disable
-        *System
-        Custom
+	Disable
+	*System
+	Custom
 Reuse Embedded LAN Address
-        *Disable
-        Enable
+	*Disable
+	Enable
 Pre-boot HBMA Support
-        Disable
-        *Enable
+	Disable
+	*Enable
 Network (PXE) Boot
 	Disable
 	*Enable
 Require BIOS PW to change TBT SL
 	*Disable
 	Enable
+Thunderbolt Mode
+	Disable
+	*Enable
 Thunderbolt Type-C Ports
 	Disable
 	*Enable
@@ -261,13 +264,13 @@ UEFI Boot Order
 	HDD:M.2:1
 	HDD:SATA:1
 	HDD:SATA:2
-	HDD:USB:1
-	NETWORK IPV4:EXTENSION:1
-	NETWORK IPV6:EXTENSION:1
+	NETWORK IPV4:EXPANSION:1
+	NETWORK IPV6:EXPANSION:1
 	NETWORK IPV4:EMBEDDED:1
 	NETWORK IPV6:EMBEDDED:1
 	WI-FI NETWORK IPV4:EMBEDDED:1
 	WI-FI NETWORK IPV6:EMBEDDED:1
+	HDD:USB:1
 Smart Card Reader Power Setting (if present)
 	Always powered on
 	*Powered on if card is present
@@ -342,6 +345,9 @@ Configure Legacy Support and Secure Boot
 	Legacy Support Enable and Secure Boot Disable
 	Legacy Support Disable and Secure Boot Enable
 	*Legacy Support Disable and Secure Boot Disable
+Secure Boot
+	*Disable
+	Enable
 Import Custom Secure Boot keys
 	*Do Nothing
 	On next boot
@@ -399,8 +405,8 @@ Wake on USB
 	*Disable
 	Enable
 Wake on Travel Keyboard
-        *Disable
-        Enable
+	*Disable
+	Enable
 Battery Health Manager
 	Maximize my battery health
 	Let HP manage my battery charging
