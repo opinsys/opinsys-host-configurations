@@ -223,6 +223,9 @@ Network (PXE) Boot
 Require BIOS PW to change TBT SL
 	*Disable
 	Enable
+Thunderbolt Mode
+	Disable
+	*Enable
 Thunderbolt Type-C Ports
 	Disable
 	*Enable
@@ -342,6 +345,9 @@ Configure Legacy Support and Secure Boot
 	Legacy Support Enable and Secure Boot Disable
 	Legacy Support Disable and Secure Boot Enable
 	*Legacy Support Disable and Secure Boot Disable
+Secure Boot
+	*Disable
+	Enable
 Import Custom Secure Boot keys
 	*Do Nothing
 	On next boot
