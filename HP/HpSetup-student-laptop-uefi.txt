@@ -583,8 +583,8 @@ Connected BIOS
 	Disable
 	*Enable
 Force HTTP no-cache
-	*Disable
-	Enable
+	Disable
+	*Enable
 OS Recovery
 	*Disable
 	Enable
