@@ -549,8 +549,8 @@ Deep Sleep
 	Off
 	*On
 Update Source
-	HP
-	*Custom
+	*HP
+	Custom
 Update Address
 	http://ftp.hp.com/pub/pcbios
 Automatically Check for Updates
