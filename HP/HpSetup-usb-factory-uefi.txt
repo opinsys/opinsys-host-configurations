@@ -324,6 +324,9 @@ Bluetooth
 	Disabled
 	*Enabled
 Wireless Network Device (WLAN)
+	Disable
+	*Enable
+Wireless Network Device (WLAN)
 	Disabled
 	*Enabled
 Embedded WiGig Device
@@ -335,6 +338,9 @@ Mobile Network Device (WWAN)
 Mobile Network Device (WWAN) and GPS Combo Device
 	Disabled
 	*Enabled
+LAN / WLAN Auto Switching
+	*Disable
+	Enable
 LAN / WLAN Auto Switching
 	*Disabled
 	Enabled
