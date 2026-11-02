@@ -286,6 +286,9 @@ Launch Hotkeys without Fn Keypress
 Swap Fn and Ctrl (Keys)
 	*Disabled
 	Enabled
+Special Keys mapped to Fn + keypress
+        Disable
+        *Enable
 Power Control
 	*Disable
 	Enable
